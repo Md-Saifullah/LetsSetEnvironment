@@ -19,7 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		015021D62A7ECF8200503B93 /* LetsSetEnvironment .app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LetsSetEnvironment .app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		015021D62A7ECF8200503B93 /* LetsSetEnvironment staging.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LetsSetEnvironment staging.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		015021D92A7ECF8200503B93 /* LetsSetEnvironmentApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetsSetEnvironmentApp.swift; sourceTree = "<group>"; };
 		015021DB2A7ECF8200503B93 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		015021DD2A7ECF8300503B93 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -57,7 +57,7 @@
 		015021D72A7ECF8200503B93 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				015021D62A7ECF8200503B93 /* LetsSetEnvironment .app */,
+				015021D62A7ECF8200503B93 /* LetsSetEnvironment staging.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -115,7 +115,7 @@
 			);
 			name = LetsSetEnvironment;
 			productName = LetsSetEnvironment;
-			productReference = 015021D62A7ECF8200503B93 /* LetsSetEnvironment .app */;
+			productReference = 015021D62A7ECF8200503B93 /* LetsSetEnvironment staging.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */

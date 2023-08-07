@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "015021D52A7ECF8200503B93"
-               BuildableName = "LetsSetEnvironment.app"
+               BuildableName = "LetsSetEnvironment .app"
                BlueprintName = "LetsSetEnvironment"
                ReferencedContainer = "container:LetsSetEnvironment.xcodeproj">
             </BuildableReference>
@@ -44,7 +44,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "015021D52A7ECF8200503B93"
-            BuildableName = "LetsSetEnvironment.app"
+            BuildableName = "LetsSetEnvironment .app"
             BlueprintName = "LetsSetEnvironment"
             ReferencedContainer = "container:LetsSetEnvironment.xcodeproj">
          </BuildableReference>
@@ -61,7 +61,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "015021D52A7ECF8200503B93"
-            BuildableName = "LetsSetEnvironment.app"
+            BuildableName = "LetsSetEnvironment .app"
             BlueprintName = "LetsSetEnvironment"
             ReferencedContainer = "container:LetsSetEnvironment.xcodeproj">
          </BuildableReference>

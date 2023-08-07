@@ -1,0 +1,27 @@
+//
+//  UAT.xcconfig
+//  LetSetEnvironment
+//
+//  Created by Md. Saifullah on 5/8/23.
+//
+
+#include "Base.xcconfig"
+#include "UAT.private.xcconfig"
+
+// API URL
+API_BASE_URL = $(API_BASE_URL)
+
+// API Key
+API_KEY = $(API_KEY)
+
+// Overriding (do NOT change key name)
+// app name
+PRODUCT_NAME = $(APP_NAME) $(ENV_NAME)
+// bundle id
+PRODUCT_BUNDLE_IDENTIFIER = $(APP_BUNDLE_IDENTIFIER).uat
+// app icon
+ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon_NonProduction
+// app version
+MARKETING_VERSION = 1.0.0
+// build number
+CURRENT_PROJECT_VERSION = 1

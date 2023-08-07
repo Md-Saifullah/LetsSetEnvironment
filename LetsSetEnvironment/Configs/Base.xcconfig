@@ -1,0 +1,14 @@
+//
+//  Base.xcconfig
+//  LetSetEnvironment
+//
+//  Created by Md. Saifullah on 6/8/23.
+//
+
+
+// Overriding (do NOT change key name)
+// app name
+APP_NAME = LetsSetEnvironment
+// bundle id
+APP_BUNDLE_IDENTIFIER = com.noname.LetsSetEnvironment
+

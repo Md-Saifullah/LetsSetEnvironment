@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack(spacing: 50) {
+        VStack(alignment: .leading, spacing: 50) {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
@@ -17,7 +17,12 @@ struct ContentView: View {
             Text("API_KEY: \(Environment.apiKey)")
 
             Text("BASE_URL: \(Environment.apiBaseUrl)")
+
+            Text("PRODUCT_NAME: \(Environment.productName)")
+
+            Text("PRODUCT_BUNDLE_IDENTIFIER: \(Environment.productBundleIdentifier)")
         }
+        .frame(maxWidth: .infinity)
         .padding()
     }
 }

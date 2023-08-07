@@ -6,5 +6,9 @@
 	<string>$(API_BASE_URL)</string>
 	<key>API_KEY</key>
 	<string>$(API_KEY)</string>
+	<key>PRODUCT_BUNDLE_IDENTIFIER</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>PRODUCT_NAME</key>
+	<string>$(PRODUCT_NAME)</string>
 </dict>
 </plist>
